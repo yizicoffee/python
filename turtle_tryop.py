@@ -1,0 +1,13 @@
+import turtle
+turtle.setup(800,400)
+turtle.circle(15)
+turtle.penup()
+turtle.fd(40)
+turtle.pendown()
+turtle.left(90)
+turtle.fd(40)
+turtle.bk(3)
+turtle.left(45)
+turtle.right(90)
+turtle.circle(-10,270)
+turtle.done()
