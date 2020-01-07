@@ -1,0 +1,7 @@
+print(pow(2, 32))
+print(2 * 2)
+print(2 / 2)
+print(2 - 2)
+print(2 + 2)
+print(3 // 2)
+print(2 ** 4)
